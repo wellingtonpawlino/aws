@@ -15,7 +15,6 @@ AWS Secret Access Key [*****]: ***  <br>
 Default region name [sa-east-1]: sa-east-1 <br>
 Default output format [json]: json <br>
 
-
 ✅ 3. Abra o AWS Explorer no VS Code
 Clique no AWS Explorer dentro do VS Code e conecte-se à sua conta AWS. <br>
 
