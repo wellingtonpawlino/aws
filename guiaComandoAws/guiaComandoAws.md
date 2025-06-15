@@ -1,4 +1,4 @@
-## configura usuario
+## configuração de usuario
 
 🔹 Passos para criar um bucket S3 no VS Code
 
